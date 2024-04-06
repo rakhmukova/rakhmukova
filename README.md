@@ -1,11 +1,5 @@
 <h1 align="left">Hi, I'm Anya 👋</h1>
 
-<h3 align="left">About me</h3>
-
-🎓 I'm studying at Saint-Petersburg State University
-
-🔭 I’m currently learning Android Development
-
 <h3 align="left">Connect with me</h3>
 
 <div align="left">
