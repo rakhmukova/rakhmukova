@@ -1,4 +1,4 @@
-<h3 align="left">Connect with me</h3>
+<h3 align="left">How to connect with me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rakhmukova/" target="_blank">
@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<h3 align="left">Language and tools</h3>
+<h3 align="left">Language and tools I use</h3>
 
 ###
 
