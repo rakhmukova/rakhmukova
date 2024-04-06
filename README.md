@@ -1,5 +1,3 @@
-<h1 align="left">Hi, I'm Anya 👋</h1>
-
 <h3 align="left">Connect with me</h3>
 
 <div align="left">
@@ -18,6 +16,9 @@
 <div align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  /> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  /> 
   </a>
   <a href="https://android.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
