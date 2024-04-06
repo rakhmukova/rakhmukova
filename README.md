@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<h3 align="left">Language and tools I use</h3>
+<h3 align="left">Languages and tools I use</h3>
 
 ###
 
